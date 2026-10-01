@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Smart POS",
+    "slug": "smart-pos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.smartpos.app"
+    }
+  }
+}
